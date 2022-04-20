@@ -2,9 +2,9 @@ Project Title: PacMen Exercise
 
 Description: When the "Make One" button is pressed a new PacMan appears and it is added to the game. The PacMen bounce of the walls when the "Start Game" button is pressed. 
 
-How to Run:
+How to Run: Download all source files onto your machine.  Open in your preferred IDE and run code to play this pacmen game on your browser!
 
-Roadmap for future Improvements: I would like to improve this being making the PacMen capable of "freezing" in place when clicked on individually and "unfreezing" the PacMan when clicked on a second time.
+Roadmap for future Improvements: I would like to improve this by making the PacMen capable of "freezing" in place when clicked on individually and "unfreezing" the PacMan when clicked on a second time.
 
 
 MIT License

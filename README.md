@@ -1,4 +1,5 @@
 Project Title: PacMen Exercise
+
 Description: When the "Make One" button is pressed a new PacMan appears and it is added to the game. The PacMen bounce of the walls when the "Start Game" button is pressed. 
 How to Run:
 Roadmap for future Improvements: I would like to improve this being making the PacMen capable of "freezing" in place when clicked on individually and "unfreezing" the PacMan when clicked on a second time.
